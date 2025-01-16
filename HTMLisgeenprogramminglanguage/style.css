@@ -120,8 +120,8 @@
 @keyframes animateProg {
   0%, 22.5% { opacity: 0; transform: translate(0, 0); }
   27.5%, 42.5% { opacity: 1; transform: translate(0, 0); }
-  47.5%, 50% { opacity: 1; transform: translate(-10ch, 8vw); }
-  55%, 100% { opacity: 0; transform: translate(-10ch, 8vw); }
+  47.5%, 50% { opacity: 1; transform: translate(11ch, 8vw); }
+  55%, 100% { opacity: 0; transform: translate(11ch, 8vw); }
 }
 
 #lijn2 #prog {
