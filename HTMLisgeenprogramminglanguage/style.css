@@ -183,6 +183,7 @@ font-size: 16px;
 display: flex;
 justify-content: space-between;
 
+
 }
 button {
 color: cadetblue;
@@ -210,6 +211,8 @@ font-size: 16px;
   padding: 3px;
 
 }
+
+
 textarea {
   font-family: sans-serif;
   font-size: 2vh;
